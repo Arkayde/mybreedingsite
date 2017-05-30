@@ -116,7 +116,7 @@
           },
           "title": "KINGSTON BREEDING",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_styles": {
             "H1": {
               "font-family": "'Bitter', serif",
