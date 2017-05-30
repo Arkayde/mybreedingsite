@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "kingstonbreeding",
-    "currentPage": "index.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -567,7 +567,7 @@
           "_params": {
             "imageSize": "21",
             "paddingTop": 3,
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
