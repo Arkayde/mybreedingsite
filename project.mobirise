@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "kingstonbreeding",
-    "currentPage": "about.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -18,7 +18,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -202,7 +202,7 @@
     },
     "termsofuse.html": {
       "settings": {
-        "title": "Web Page Maker Title",
+        "title": "Terms of Use",
         "meta_descr": "Web Page Maker Description",
         "order": 3
       },
@@ -372,7 +372,7 @@
     },
     "privacy.html": {
       "settings": {
-        "title": "Web Site Creator Title",
+        "title": "Privacy",
         "meta_descr": "Web Site Creator Description",
         "order": 4
       },
@@ -536,7 +536,7 @@
     },
     "about.html": {
       "settings": {
-        "title": "Website Generator Title",
+        "title": "About",
         "meta_descr": "Website Generator Description",
         "order": 2
       },
@@ -824,7 +824,7 @@
     },
     "contact.html": {
       "settings": {
-        "title": "Website Generator Title",
+        "title": "Contact",
         "meta_descr": "Website Generator Description"
       },
       "components": [
