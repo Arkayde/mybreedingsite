@@ -226,3 +226,51 @@
 #contacts1-p UL {
   color: #000000;
 }
+
+
+#msg-box4-y .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-y .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-y .mbr-article {
+  color: #ffffff;
+}
+#dropdown-menu-2btn-t .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-t .navbar-brand a {
+  font-family: 'Bitter', serif;
+  font-size: 20px;
+}
+#dropdown-menu-2btn-t .nav .link,
+#dropdown-menu-2btn-t .dropdown-item {
+  font-size: 1.2em;
+  color: #cccccc;
+  font-family: 'Bitter', serif;
+}
+#dropdown-menu-2btn-t .navbar,
+#dropdown-menu-2btn-t .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-2btn-t .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-t .dropdown-menu a:hover,
+#dropdown-menu-2btn-t .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-2btn-t .navbar-toggler {
+  color: #cccccc;
+}
+#contacts1-u B {
+  color: #ffffff;
+}
+#contacts1-u STRONG {
+  color: #ffffff;
+}
+#contacts1-u P {
+  color: #000000;
+}
+#contacts1-u UL {
+  color: #000000;
+}
