@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 52,
+    "uniqCompNum": 53,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/kingston-breeding-logo-128x128.png",
     "noImageResize": "",
@@ -1793,10 +1793,13 @@
             },
             ".mbr-article": {
               "color": "#ffffff"
+            },
+            ".mbr-article H1": {
+              "color": "#ffffff"
             }
           },
           "_name": "msg-box4",
-          "_anchor": "msg-box4-1f",
+          "_anchor": "msg-box4-1g",
           "_params": {
             "imageSize": 50,
             "paddingTop": 3,
@@ -1843,9 +1846,9 @@
             }
           },
           "headerAlign": "left",
-          "title": "Meet Male Pocket Bully Puppy #1",
+          "title": "Male Pocket Bully Puppy #1",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "",
+          "text": "<p>Meet the first of our last three male Pocket Bully puppies. Unlike his sister, he and his brothers do not have official names yet. We've reserved that choice for his future family.</p><p>The son of Black and Nala, this little guy is full of energy, and absolutely adorable. He's a rambunctious sweetheart, who loves hanging out with his brothers and sister.&nbsp;</p><p>He's looking for a forever home, where he can guard the doors, and lounge around with the family.</p><p><br></p><h1>Faq:</h1><ul><li>Height -</li><li>Weight -</li><li>Shots -</li><li>Medical History -</li></ul>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
