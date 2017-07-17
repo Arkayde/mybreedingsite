@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 53,
+    "uniqCompNum": 54,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/kingston-breeding-logo-128x128.png",
     "noImageResize": "",
@@ -1849,6 +1849,78 @@
           "title": "Male Pocket Bully Puppy #1",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Meet the first of our last three male Pocket Bully puppies. Unlike his sister, he and his brothers do not have official names yet. We've reserved that choice for his future family.</p><p>The son of Black and Nala, this little guy is full of energy, and absolutely adorable. He's a rambunctious sweetheart, who loves hanging out with his brothers and sister.&nbsp;</p><p>He's looking for a forever home, where he can guard the doors, and lounge around with the family.</p><p><br></p><h1>Faq:</h1><ul><li>Height -</li><li>Weight -</li><li>Shots -</li><li>Medical History -</li></ul>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article H1": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1h",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/male-puppy-1400x1400.jpg",
+              "link": "",
+              "alt": "Male Pocket Bully Puppy #2",
+              "title": "Male Pocket Bully Puppy #2",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "Male Pocket Bully Puppy #2",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>This guy is a runner. Out of all of his siblings, he's probably the one with the most energy. And not only is he a fast and energetic puppy, but he's also very strong.</p><p>Much like his brothers, we've reserved the right to name him, to his future family.&nbsp;</p><p>He's a good boy who enjoys long walks, running, and playing.</p><p><br></p><h1>Faq:</h1><ul><li>Height -</li><li>Weight -</li><li>Shots -</li><li>Medical History -</li></ul>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
