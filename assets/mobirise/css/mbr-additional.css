@@ -379,3 +379,51 @@
 #contacts1-15 UL {
   color: #000000;
 }
+
+
+#msg-box4-1f .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-1f .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-1f .mbr-article {
+  color: #ffffff;
+}
+#dropdown-menu-2btn-1b .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-1b .navbar-brand a {
+  font-family: 'Bitter', serif;
+  font-size: 20px;
+}
+#dropdown-menu-2btn-1b .nav .link,
+#dropdown-menu-2btn-1b .dropdown-item {
+  font-size: 1.2em;
+  color: #cccccc;
+  font-family: 'Bitter', serif;
+}
+#dropdown-menu-2btn-1b .navbar,
+#dropdown-menu-2btn-1b .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-2btn-1b .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-1b .dropdown-menu a:hover,
+#dropdown-menu-2btn-1b .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-2btn-1b .navbar-toggler {
+  color: #cccccc;
+}
+#contacts1-1c B {
+  color: #ffffff;
+}
+#contacts1-1c STRONG {
+  color: #ffffff;
+}
+#contacts1-1c P {
+  color: #000000;
+}
+#contacts1-1c UL {
+  color: #000000;
+}
