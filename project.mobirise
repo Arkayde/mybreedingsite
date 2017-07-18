@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "kingstonbreeding",
-    "currentPage": "male_pocket_bully_puppies.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -85,7 +85,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KINGSTON BREEDING</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RIVER CITY BULLIES</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BULLY PROFILES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adult Bullies</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adult_bully_males.html\">Males</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adult_pocket_bully_females.html\">Females</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Bully Puppies</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"male_pocket_bully_puppies.html\">Males</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"female_pocket_bully_puppies.html\">Females</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
         },
         {
@@ -121,7 +121,7 @@
             "showButtons": true,
             "showArrow": false
           },
-          "title": "KINGSTON BREEDING",
+          "title": "RIVER CITY BULLLIES",
           "text": "",
           "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         },
@@ -175,7 +175,7 @@
             }
           },
           "text1": "<b>LOCATION</b><br>ELIZABETH CITY, NC<br>UNITED STATES",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: harvey@kingstonbreeding.com<br>\nPhone: 252-548-1646<br>",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: harvey@rivercitybullies.com<br>\nPhone: 252-548-1646<br>",
           "text3": "<p class=\"mbr-contacts__text\"><b>AFFILIATES</b></p><ul class=\"mbr-contacts__list\"><li>Petco</li><li>PetSmart</li><li>1-800-PETMEDS</li></ul>"
         },
         {
@@ -196,7 +196,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p>Copyright (c) 2017 Kingston Breeding.<b>&nbsp; <a href=\"termsofuse.html\" class=\"text-white\">Terms of Use</a></b>  | <a href=\"privacy.html\" class=\"text-white\">P<b>rivacy Policy</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<i> </i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>blaqcodesolutions.com</i></p>"
+          "text": "<p>Copyright (c) 2017 River City Bullies<b>&nbsp;&nbsp;<a href=\"termsofuse.html\" class=\"text-white\">Terms of Use</a></b>  | <a href=\"privacy.html\" class=\"text-white\">P<b>rivacy Policy</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<i> </i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>brithedev.com</i></p>"
         }
       ]
     },
@@ -292,7 +292,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KINGSTON BREEDING</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RIVER CITY BULLIES</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BULLY PROFILES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adult Bullies</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adult_bully_males.html\">Males</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adult_pocket_bully_females.html\">Females</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Bully Puppies</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"male_pocket_bully_puppies.html\">Males</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"female_pocket_bully_puppies.html\">Females</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
         },
         {
@@ -345,7 +345,7 @@
             }
           },
           "text1": "<b>LOCATION</b><br>ELIZABETH CITY, NC<br>UNITED STATES",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: harvey@kingstonbreeding.com<br>\nPhone: 252-548-1646<br>",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: harvey@rivercitybullies.com<br>\nPhone: 252-548-1646<br>",
           "text3": "<p class=\"mbr-contacts__text\"><b>AFFILIATES</b></p><ul class=\"mbr-contacts__list\"><li>Petco</li><li>PetSmart</li><li>1-800-PETMEDS</li></ul>"
         },
         {
@@ -366,7 +366,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p>Copyright (c) 2017 Kingston Breeding.<b>&nbsp; <a href=\"termsofuse.html\" class=\"text-white\">Terms of Use</a></b>  | <a href=\"privacy.html\" class=\"text-white\">P<b>rivacy Policy</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<i> </i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>blaqcodesolutions.com</i></p>"
+          "text": "<p>Copyright (c) 2017 River City Bullies<b>&nbsp;&nbsp;<a href=\"termsofuse.html\" class=\"text-white\">Terms of Use</a></b>  | <a href=\"privacy.html\" class=\"text-white\">P<b>rivacy Policy</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<i> </i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>brithedev.com</i></p>"
         }
       ]
     },
@@ -456,7 +456,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KINGSTON BREEDING</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RIVER CITY BULLIES</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BULLY PROFILES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adult Bullies</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adult_bully_males.html\">Males</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adult_pocket_bully_females.html\">Females</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Bully Puppies</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"male_pocket_bully_puppies.html\">Males</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"female_pocket_bully_puppies.html\">Females</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
         },
         {
@@ -509,7 +509,7 @@
             }
           },
           "text1": "<b>LOCATION</b><br>ELIZABETH CITY, NC<br>UNITED STATES",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: harvey@kingstonbreeding.com<br>\nPhone: 252-548-1646<br>",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: harvey@rivercitybullies.com<br>\nPhone: 252-548-1646<br>",
           "text3": "<p class=\"mbr-contacts__text\"><b>AFFILIATES</b></p><ul class=\"mbr-contacts__list\"><li>Petco</li><li>PetSmart</li><li>1-800-PETMEDS</li></ul>"
         },
         {
@@ -530,7 +530,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p>Copyright (c) 2017 Kingston Breeding.<b>&nbsp; <a href=\"termsofuse.html\" class=\"text-white\">Terms of Use</a></b>  | <a href=\"privacy.html\" class=\"text-white\">P<b>rivacy Policy</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<i> </i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>blaqcodesolutions.com</i></p>"
+          "text": "<p>Copyright (c) 2017 River City Bullies<b>&nbsp;&nbsp;<a href=\"termsofuse.html\" class=\"text-white\">Terms of Use</a></b>  | <a href=\"privacy.html\" class=\"text-white\">P<b>rivacy Policy</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<i> </i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>brithedev.com</i></p>"
         }
       ]
     },
@@ -744,7 +744,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KINGSTON BREEDING</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RIVER CITY BULLIES</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BULLY PROFILES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adult Bullies</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adult_bully_males.html\">Males</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adult_pocket_bully_females.html\">Females</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Bully Puppies</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"male_pocket_bully_puppies.html\">Males</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"female_pocket_bully_puppies.html\">Females</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
         },
         {
@@ -797,7 +797,7 @@
             }
           },
           "text1": "<b>LOCATION</b><br>ELIZABETH CITY, NC<br>UNITED STATES",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: harvey@kingstonbreeding.com<br>\nPhone: 252-548-1646<br>",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: harvey@rivercitybullies.com<br>\nPhone: 252-548-1646<br>",
           "text3": "<p class=\"mbr-contacts__text\"><b>AFFILIATES</b></p><ul class=\"mbr-contacts__list\"><li>Petco</li><li>PetSmart</li><li>1-800-PETMEDS</li></ul>"
         },
         {
@@ -818,7 +818,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p>Copyright (c) 2017 Kingston Breeding.<b>&nbsp; <a href=\"termsofuse.html\" class=\"text-white\">Terms of Use</a></b>  | <a href=\"privacy.html\" class=\"text-white\">P<b>rivacy Policy</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<i> </i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>blaqcodesolutions.com</i></p>"
+          "text": "<p>Copyright (c) 2017 River City Bullies<b>&nbsp;&nbsp;<a href=\"termsofuse.html\" class=\"text-white\">Terms of Use</a></b>  | <a href=\"privacy.html\" class=\"text-white\">P<b>rivacy Policy</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<i> </i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>brithedev.com</i></p>"
         }
       ]
     },
@@ -942,7 +942,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KINGSTON BREEDING</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RIVER CITY BULLIES</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BULLY PROFILES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adult Bullies</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adult_bully_males.html\">Males</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adult_pocket_bully_females.html\">Females</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Bully Puppies</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"male_pocket_bully_puppies.html\">Males</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"female_pocket_bully_puppies.html\">Females</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
         },
         {
@@ -995,7 +995,7 @@
             }
           },
           "text1": "<b>LOCATION</b><br>ELIZABETH CITY, NC<br>UNITED STATES",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: harvey@kingstonbreeding.com<br>\nPhone: 252-548-1646<br>",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: harvey@rivercitybullies.com<br>\nPhone: 252-548-1646<br>",
           "text3": "<p class=\"mbr-contacts__text\"><b>AFFILIATES</b></p><ul class=\"mbr-contacts__list\"><li>Petco</li><li>PetSmart</li><li>1-800-PETMEDS</li></ul>"
         },
         {
@@ -1016,7 +1016,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p>Copyright (c) 2017 Kingston Breeding.<b>&nbsp; <a href=\"termsofuse.html\" class=\"text-white\">Terms of Use</a></b>  | <a href=\"privacy.html\" class=\"text-white\">P<b>rivacy Policy</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<i> </i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>blaqcodesolutions.com</i></p>"
+          "text": "<p>Copyright (c) 2017 River City Bullies<b>&nbsp;&nbsp;<a href=\"termsofuse.html\" class=\"text-white\">Terms of Use</a></b>  | <a href=\"privacy.html\" class=\"text-white\">P<b>rivacy Policy</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<i> </i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>brithedev.com</i></p>"
         }
       ]
     },
@@ -1166,7 +1166,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KINGSTON BREEDING</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RIVER CITY BULLIES</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BULLY PROFILES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adult Bullies</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adult_bully_males.html\">Males</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adult_pocket_bully_females.html\">Females</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Bully Puppies</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"male_pocket_bully_puppies.html\">Males</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"female_pocket_bully_puppies.html\">Females</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
         },
         {
@@ -1219,7 +1219,7 @@
             }
           },
           "text1": "<b>LOCATION</b><br>ELIZABETH CITY, NC<br>UNITED STATES",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: harvey@kingstonbreeding.com<br>\nPhone: 252-548-1646<br>",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: harvey@rivercitybullies.com<br>\nPhone: 252-548-1646<br>",
           "text3": "<p class=\"mbr-contacts__text\"><b>AFFILIATES</b></p><ul class=\"mbr-contacts__list\"><li>Petco</li><li>PetSmart</li><li>1-800-PETMEDS</li></ul>"
         },
         {
@@ -1240,7 +1240,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p>Copyright (c) 2017 Kingston Breeding.<b>&nbsp; <a href=\"termsofuse.html\" class=\"text-white\">Terms of Use</a></b>  | <a href=\"privacy.html\" class=\"text-white\">P<b>rivacy Policy</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<i> </i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>blaqcodesolutions.com</i></p>"
+          "text": "<p>Copyright (c) 2017 River City Bullies<b>&nbsp;&nbsp;<a href=\"termsofuse.html\" class=\"text-white\">Terms of Use</a></b>  | <a href=\"privacy.html\" class=\"text-white\">P<b>rivacy Policy</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<i> </i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>brithedev.com</i></p>"
         }
       ]
     },
@@ -1390,7 +1390,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KINGSTON BREEDING</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RIVER CITY BULLIES</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BULLY PROFILES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adult Bullies</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adult_bully_males.html\">Males</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adult_pocket_bully_females.html\">Females</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Bully Puppies</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"male_pocket_bully_puppies.html\">Males</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"female_pocket_bully_puppies.html\">Females</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
         },
         {
@@ -1443,7 +1443,7 @@
             }
           },
           "text1": "<b>LOCATION</b><br>ELIZABETH CITY, NC<br>UNITED STATES",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: harvey@kingstonbreeding.com<br>\nPhone: 252-548-1646<br>",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: harvey@rivercitybullies.com<br>\nPhone: 252-548-1646<br>",
           "text3": "<p class=\"mbr-contacts__text\"><b>AFFILIATES</b></p><ul class=\"mbr-contacts__list\"><li>Petco</li><li>PetSmart</li><li>1-800-PETMEDS</li></ul>"
         },
         {
@@ -1464,7 +1464,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p>Copyright (c) 2017 Kingston Breeding.<b>&nbsp; <a href=\"termsofuse.html\" class=\"text-white\">Terms of Use</a></b>  | <a href=\"privacy.html\" class=\"text-white\">P<b>rivacy Policy</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<i> </i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>blaqcodesolutions.com</i></p>"
+          "text": "<p>Copyright (c) 2017 River City Bullies<b>&nbsp;&nbsp;<a href=\"termsofuse.html\" class=\"text-white\">Terms of Use</a></b>  | <a href=\"privacy.html\" class=\"text-white\">P<b>rivacy Policy</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<i> </i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>brithedev.com</i></p>"
         }
       ]
     },
@@ -1683,7 +1683,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KINGSTON BREEDING</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RIVER CITY BULLIES</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BULLY PROFILES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adult Bullies</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adult_bully_males.html\">Males</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adult_pocket_bully_females.html\">Females</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Bully Puppies</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"male_pocket_bully_puppies.html\">Males</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"female_pocket_bully_puppies.html\">Females</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
         },
         {
@@ -1736,7 +1736,7 @@
             }
           },
           "text1": "<b>LOCATION</b><br>ELIZABETH CITY, NC<br>UNITED STATES",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: harvey@kingstonbreeding.com<br>\nPhone: 252-548-1646<br>",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: harvey@rivercitybullies.com<br>\nPhone: 252-548-1646<br>",
           "text3": "<p class=\"mbr-contacts__text\"><b>AFFILIATES</b></p><ul class=\"mbr-contacts__list\"><li>Petco</li><li>PetSmart</li><li>1-800-PETMEDS</li></ul>"
         },
         {
@@ -1757,7 +1757,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p>Copyright (c) 2017 Kingston Breeding.<b>&nbsp; <a href=\"termsofuse.html\" class=\"text-white\">Terms of Use</a></b>  | <a href=\"privacy.html\" class=\"text-white\">P<b>rivacy Policy</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<i> </i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>blaqcodesolutions.com</i></p>"
+          "text": "<p>Copyright (c) 2017 River City Bullies<b>&nbsp;&nbsp;<a href=\"termsofuse.html\" class=\"text-white\">Terms of Use</a></b>  | <a href=\"privacy.html\" class=\"text-white\">P<b>rivacy Policy</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<i> </i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>brithedev.com</i></p>"
         }
       ]
     },
@@ -2054,7 +2054,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">KINGSTON BREEDING</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RIVER CITY BULLIES</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BULLY PROFILES</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adult Bullies</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adult_bully_males.html\">Males</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adult_pocket_bully_females.html\">Females</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Bully Puppies</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"male_pocket_bully_puppies.html\">Males</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"female_pocket_bully_puppies.html\">Females</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
         },
         {
@@ -2107,7 +2107,7 @@
             }
           },
           "text1": "<b>LOCATION</b><br>ELIZABETH CITY, NC<br>UNITED STATES",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: harvey@kingstonbreeding.com<br>\nPhone: 252-548-1646<br>",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: harvey@rivercitybullies.com<br>\nPhone: 252-548-1646<br>",
           "text3": "<p class=\"mbr-contacts__text\"><b>AFFILIATES</b></p><ul class=\"mbr-contacts__list\"><li>Petco</li><li>PetSmart</li><li>1-800-PETMEDS</li></ul>"
         },
         {
@@ -2128,7 +2128,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p>Copyright (c) 2017 Kingston Breeding.<b>&nbsp; <a href=\"termsofuse.html\" class=\"text-white\">Terms of Use</a></b>  | <a href=\"privacy.html\" class=\"text-white\">P<b>rivacy Policy</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<i> </i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>blaqcodesolutions.com</i></p>"
+          "text": "<p>Copyright (c) 2017 River City Bullies<b>&nbsp;&nbsp;<a href=\"termsofuse.html\" class=\"text-white\">Terms of Use</a></b>  | <a href=\"privacy.html\" class=\"text-white\">P<b>rivacy Policy</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<i> </i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>brithedev.com</i></p>"
         }
       ]
     }
