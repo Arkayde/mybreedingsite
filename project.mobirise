@@ -196,7 +196,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<p>Copyright (c) 2017 River City Bullies<b>&nbsp;&nbsp;<a href=\"termsofuse.html\" class=\"text-white\">Terms of Use</a></b>  | <a href=\"privacy.html\" class=\"text-white\">P<b>rivacy Policy</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<i> </i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>brithedev.com</i></p>"
+          "text": "<p>Copyright (c) 2017 River City Bullies<b>&nbsp;&nbsp;<a href=\"termsofuse.html\" class=\"text-white\">Terms of Use</a></b>  | <a href=\"privacy.html\" class=\"text-white\">P<b>rivacy Policy</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<i>&nbsp;</i>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;developed by<i>&nbsp;<b>brithedev.com</b></i></p>"
         }
       ]
     },
