@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "kingstonbreeding",
-    "currentPage": "female_pocket_bully_puppies.html",
+    "currentPage": "male_pocket_bully_puppies.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -2091,13 +2091,13 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kingston-breeding-logo3-265x126.png",
+              "src": "@PROJECT_PATH@/assets/images/rivercitybullies-265x130.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
               "link": "index.html",
-              "alt": "",
-              "title": "",
+              "alt": "River City Bullies",
+              "title": "River City Bullies",
               "linkInNewWindow": false
             },
             "iconFont": {
